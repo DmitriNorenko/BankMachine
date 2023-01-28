@@ -1,8 +1,0 @@
-C:\Users\dima\source\repos\BankMachine\BankMachine\bin\Debug\BankMachine.exe.config
-C:\Users\dima\source\repos\BankMachine\BankMachine\bin\Debug\BankMachine.exe
-C:\Users\dima\source\repos\BankMachine\BankMachine\bin\Debug\BankMachine.pdb
-C:\Users\dima\source\repos\BankMachine\BankMachine\obj\Debug\BankMachine.csproj.AssemblyReference.cache
-C:\Users\dima\source\repos\BankMachine\BankMachine\obj\Debug\BankMachine.csproj.SuggestedBindingRedirects.cache
-C:\Users\dima\source\repos\BankMachine\BankMachine\obj\Debug\BankMachine.csproj.CoreCompileInputs.cache
-C:\Users\dima\source\repos\BankMachine\BankMachine\obj\Debug\BankMachine.exe
-C:\Users\dima\source\repos\BankMachine\BankMachine\obj\Debug\BankMachine.pdb
